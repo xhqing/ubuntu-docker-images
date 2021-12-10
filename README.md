@@ -18,7 +18,7 @@ docker pull xhq123/ubuntu-conda
 ```
 
 ## ubuntu with zsh, conda and pipenv
-and then i use `conda create` create python36 virtualenv and installed pipenv, and set some alias in `~/.zshrc`.
+and then i use `conda create` create python36 virtualenv and installed pipenv, and set some alias in `~/.zshrc` and some other settings such as `~/.vimrc` etc.
 ```
 docker pull xhq123/ubuntu-pipenvpy36
 ```
